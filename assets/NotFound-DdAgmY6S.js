@@ -1,1 +1,0 @@
-import{i as e,n as t,o as n,s as r,t as i}from"./index-S3G4oRWK.js";var a={class:`container`},o=t(Object.assign({name:`Article`,methods:{}},{setup(t){return i(),(t,i)=>(r(),n(`div`,a,[...i[0]||=[e(`h1`,null,`404`,-1),e(`p`,null,`お探しページは蒸発したか、存在しない記憶の可能性がございます。`,-1),e(`a`,{href:`/naga-ame/#/`},`戻る`,-1)]]))}}),[[`__scopeId`,`data-v-8066223f`]]);export{o as default};
